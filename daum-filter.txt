@@ -1,1 +1,3 @@
 daum.net##.advert*
+daum.net###adMain
+daum.net##.wing_tmp
